@@ -1,0 +1,7 @@
+./CarlaUE4.sh /Game/Maps/Course4 -windowed -carla-server -benchmark -fps=30
+
+
+python3 module_7.py
+
+ the Python client will output controller_output/trajectory.txt and controller_output/collision_count.txt
+
